@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 36.586 s <<< FAILURE! - in TestSuite
+createPortFolioTest(com.qtpselenium.testcases.CreatePortfolioTest)  Time elapsed: 11.68 s  <<< FAILURE!
+java.lang.AssertionError: Portfolio creation error
+	at com.qtpselenium.testcases.CreatePortfolioTest.createPortFolioTest(CreatePortfolioTest.java:82)
+

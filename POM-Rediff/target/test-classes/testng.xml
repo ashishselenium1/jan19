@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+<test name="Create Portfolio Test">
+    <classes>
+        <class name="com.qtpselenium.testcases.CreatePortfolioTest" ></class>  
+    </classes>
+</test>
+
+<test name="Stock Test">
+    <classes>
+        <class name="com.qtpselenium.testcases.StockTest" ></class>  
+    </classes>
+</test>
+
+</suite>

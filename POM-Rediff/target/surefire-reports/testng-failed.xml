@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [My Sample Suite]">
+  <test name="Create Portfolio Test(failed)">
+    <classes>
+      <class name="com.qtpselenium.testcases.CreatePortfolioTest">
+        <methods>
+          <include name="quit"/>
+          <include name="createPortFolioTest" invocation-numbers="0 1 2"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.qtpselenium.testcases.CreatePortfolioTest -->
+      <class name="com.qtpselenium.testcases.StockTest">
+        <methods>
+          <include name="init"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.qtpselenium.testcases.StockTest -->
+    </classes>
+  </test> <!-- Create Portfolio Test(failed) -->
+</suite> <!-- Failed suite [My Sample Suite] -->
