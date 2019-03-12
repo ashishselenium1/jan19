@@ -35,7 +35,7 @@ public class Constants {
 	public static final String PORTFOLIO_DROPDOWN="portfolioid";
 	public static final String CREATE_PORTFOLIO = "createPortfolio";
 	public static final String PORTFOLIO_NAME="create";
-	public static final String GRID_RUN="N"; // flag
+	public static final String GRID_RUN="N"; 
 
 	
 	
