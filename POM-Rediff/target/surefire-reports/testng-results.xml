@@ -2,16 +2,16 @@
 <testng-results skipped="2" failed="1" ignored="0" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="My Sample Suite" duration-ms="34281" started-at="2019-03-12T01:59:57Z" finished-at="2019-03-12T02:00:32Z">
+  <suite name="My Sample Suite" duration-ms="37078" started-at="2019-03-12T02:29:53Z" finished-at="2019-03-12T02:30:30Z">
     <groups>
     </groups>
-    <test name="Create Portfolio Test" duration-ms="13234" started-at="2019-03-12T01:59:57Z" finished-at="2019-03-12T02:00:10Z">
+    <test name="Create Portfolio Test" duration-ms="16112" started-at="2019-03-12T02:29:53Z" finished-at="2019-03-12T02:30:09Z">
       <class name="com.qtpselenium.testcases.CreatePortfolioTest">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="init" is-config="true" duration-ms="380" started-at="2019-03-12T07:29:57Z" finished-at="2019-03-12T07:29:58Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="init" is-config="true" duration-ms="267" started-at="2019-03-12T07:59:53Z" finished-at="2019-03-12T07:59:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="SKIP" signature="createPortFolioTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="createPortFolioTest" duration-ms="24" started-at="2019-03-12T07:29:58Z" data-provider="getData" finished-at="2019-03-12T07:29:58Z">
+        <test-method status="SKIP" signature="createPortFolioTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="createPortFolioTest" duration-ms="16" started-at="2019-03-12T07:59:54Z" data-provider="getData" finished-at="2019-03-12T07:59:54Z">
           <params>
             <param index="0">
               <value>
@@ -71,11 +71,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPortFolioTest -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="quit" is-config="true" duration-ms="702" started-at="2019-03-12T07:29:58Z" finished-at="2019-03-12T07:29:58Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="quit" is-config="true" duration-ms="973" started-at="2019-03-12T07:59:54Z" finished-at="2019-03-12T07:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="FAIL" signature="createPortFolioTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="createPortFolioTest" duration-ms="11670" started-at="2019-03-12T07:29:58Z" data-provider="getData" finished-at="2019-03-12T07:30:10Z">
+        <test-method status="FAIL" signature="createPortFolioTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="createPortFolioTest" duration-ms="14487" started-at="2019-03-12T07:59:55Z" data-provider="getData" finished-at="2019-03-12T08:00:09Z">
           <params>
             <param index="0">
               <value>
@@ -137,19 +137,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPortFolioTest -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="init" is-config="true" duration-ms="0" started-at="2019-03-12T07:29:58Z" finished-at="2019-03-12T07:29:58Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="init" is-config="true" duration-ms="0" started-at="2019-03-12T07:59:55Z" finished-at="2019-03-12T07:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="quit" is-config="true" duration-ms="241" started-at="2019-03-12T07:30:10Z" finished-at="2019-03-12T07:30:10Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="quit" is-config="true" duration-ms="183" started-at="2019-03-12T08:00:09Z" finished-at="2019-03-12T08:00:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="init" is-config="true" duration-ms="1" started-at="2019-03-12T07:30:10Z" finished-at="2019-03-12T07:30:10Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="init" is-config="true" duration-ms="0" started-at="2019-03-12T08:00:09Z" finished-at="2019-03-12T08:00:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="SKIP" signature="createPortFolioTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="createPortFolioTest" duration-ms="0" started-at="2019-03-12T07:30:10Z" data-provider="getData" finished-at="2019-03-12T07:30:10Z">
+        <test-method status="SKIP" signature="createPortFolioTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="createPortFolioTest" duration-ms="0" started-at="2019-03-12T08:00:09Z" data-provider="getData" finished-at="2019-03-12T08:00:09Z">
           <params>
             <param index="0">
               <value>
@@ -209,19 +209,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPortFolioTest -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@48fa0f47]" name="quit" is-config="true" duration-ms="146" started-at="2019-03-12T07:30:10Z" finished-at="2019-03-12T07:30:10Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.CreatePortfolioTest@7c469c48]" name="quit" is-config="true" duration-ms="119" started-at="2019-03-12T08:00:09Z" finished-at="2019-03-12T08:00:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
       </class> <!-- com.qtpselenium.testcases.CreatePortfolioTest -->
     </test> <!-- Create Portfolio Test -->
-    <test name="Stock Test" duration-ms="20937" started-at="2019-03-12T02:00:11Z" finished-at="2019-03-12T02:00:32Z">
+    <test name="Stock Test" duration-ms="20906" started-at="2019-03-12T02:30:09Z" finished-at="2019-03-12T02:30:30Z">
       <class name="com.qtpselenium.testcases.StockTest">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.StockTest@bef2d72]" name="init" is-config="true" duration-ms="0" started-at="2019-03-12T07:30:11Z" finished-at="2019-03-12T07:30:11Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.qtpselenium.testcases.StockTest@10e92f8f]" name="init" is-config="true" duration-ms="0" started-at="2019-03-12T08:00:09Z" finished-at="2019-03-12T08:00:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="addStockTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qtpselenium.testcases.StockTest@bef2d72]" name="addStockTest" duration-ms="20817" started-at="2019-03-12T07:30:11Z" data-provider="getData" finished-at="2019-03-12T07:30:31Z">
+        <test-method status="PASS" signature="addStockTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qtpselenium.testcases.StockTest@10e92f8f]" name="addStockTest" duration-ms="20773" started-at="2019-03-12T08:00:09Z" data-provider="getData" finished-at="2019-03-12T08:00:30Z">
           <params>
             <param index="0">
               <value>
@@ -262,7 +262,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addStockTest -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.StockTest@bef2d72]" name="quit" is-config="true" duration-ms="116" started-at="2019-03-12T07:30:31Z" finished-at="2019-03-12T07:30:32Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qtpselenium.testcases.StockTest@10e92f8f]" name="quit" is-config="true" duration-ms="130" started-at="2019-03-12T08:00:30Z" finished-at="2019-03-12T08:00:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
